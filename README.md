@@ -66,3 +66,7 @@ Almost every number that affects game feel lives in `src/config.js`. `getProfile
 ```
 
 This creates `ninja-cat.zip` containing the game files, ready for upload (for example, to YouTube Playables).
+
+## Play online
+
+https://arbesa40.github.io/ninja-cat/
